@@ -22,3 +22,5 @@ Route::get('/coba', function () {
 Route::get('/hallo', function(){
   return view ('coba');
 });
+
+//cobaboacbaosbf
